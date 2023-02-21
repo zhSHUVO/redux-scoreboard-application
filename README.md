@@ -1,0 +1,1 @@
+This is a vanilla redux application. This application keeps track of different scores of different matchs.
